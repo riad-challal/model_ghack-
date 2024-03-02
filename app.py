@@ -40,4 +40,4 @@ def classify_image():
         return {"error": "Invalid request parameters"}
 
 if __name__ == "__main__":
-    app.run(port=8000)  # Change the port number as needed
+    app.run(port=8000)  # Change the port number as needed.
